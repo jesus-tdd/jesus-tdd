@@ -1,4 +1,4 @@
-# 🦾 Hey there, I'm Jesus<br><sub>(can't turn water into wine yet, though)</sub>
+# 🦾 Hey there, I'm Jesús<br><sub>(can't turn water into wine yet, though)</sub>
 
 ## 🐟 About me 
 - Computer Engineering student at the Univerity of Las Palmas
