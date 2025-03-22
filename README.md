@@ -1,5 +1,5 @@
-# 🦾 Hey there, I'm Jesus <sub>
-(no, not THAT Jesus)</sub>
+# 🦾 Hey there, I'm Jesus 
+<sub>(no, not THAT Jesus)</sub>
 
 <!--
 **jesus-tdd/jesus-tdd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
