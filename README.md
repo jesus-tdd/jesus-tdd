@@ -1,4 +1,4 @@
-## 🦾 Hey there, I'm Jesus
+<h1 style:"display: inline">🦾 Hey there, I'm Jesus </h1>
 ### (no, not THAT Jesus)
 
 <!--
