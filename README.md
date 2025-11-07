@@ -4,10 +4,10 @@
 - Computer Engineering student at the Univerity of Las Palmas
 
 ## 🌿 Currently Learning
-- Processes of Software Development
 - Computer Architecture
 - Clean code
 - Web development
+- Stuff about Networks
 
 ## <img src="https://github.com/jesus-tdd/jesus-tdd/blob/main/babel.svg" height="24"> Languages and Tools
 <!-- TODO: Cambiar torre por una que se vea mejor -->
