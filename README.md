@@ -1,28 +1,31 @@
-# 🦾 Hey there, I'm Jesús<br><sub>(can't turn water into wine yet, though)</sub>
+# 🦾 Hey there, I'm Jesús
+> Expert in prayer oriented programming
 
-## 🐟 About me 
-- Computer Engineering student at the Univerity of Las Palmas
+- 💭 Studying Computer Engineering at the University of Las Palmas
+- 🌐 Based in LPGC
+- 🎮 Worst Incineroar main in Spain
 
-## 🌿 Currently Learning
-- Computer Architecture
-- Clean code
-- Web development
-- Stuff about Networks
+## 🛠 Tech I work with
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
+</p>
 
-## <img src="https://github.com/jesus-tdd/jesus-tdd/blob/main/babel.svg" height="24"> Languages and Tools
-<!-- TODO: Cambiar torre por una que se vea mejor -->
-- Java
-- Python
-- C / C++ / C#
+> ⚠ Known bugs: Right hand failed to render
 
-## <img src="https://github.com/jesus-tdd/jesus-tdd/blob/main/commandments.svg" height="24"> Stats
-<!-- TODO: Cambiar emoji por tablas de la ley?? -->
+## 📊 Stats
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=jesus-tdd&hide=contribs&show_icons=true&theme=dark" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jesus-tdd&theme=dark" />
-</a>
+
+---
+*Half the hands, double the code*
 
 <!--
 **jesus-tdd/jesus-tdd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
